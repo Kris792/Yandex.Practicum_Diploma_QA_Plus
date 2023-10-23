@@ -1,1 +1,3 @@
-# Yandex.Practicum_Diploma_QA_Plus
+Автотесты для приложения Яндекс.Самокат и команды для SQL.
+
+Для выполнения тестов в Python должны быть установлены Pytest и Requests.
